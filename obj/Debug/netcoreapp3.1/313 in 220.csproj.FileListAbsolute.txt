@@ -1,0 +1,16 @@
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\bin\Debug\netcoreapp3.1\313 in 220.exe
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\bin\Debug\netcoreapp3.1\313 in 220.deps.json
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\bin\Debug\netcoreapp3.1\313 in 220.runtimeconfig.json
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\bin\Debug\netcoreapp3.1\313 in 220.runtimeconfig.dev.json
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\bin\Debug\netcoreapp3.1\313 in 220.dll
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\bin\Debug\netcoreapp3.1\313 in 220.pdb
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\obj\Debug\netcoreapp3.1\313 in 220.csprojAssemblyReference.cache
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\obj\Debug\netcoreapp3.1\_313_in_220.Form1.resources
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\obj\Debug\netcoreapp3.1\313 in 220.csproj.GenerateResource.cache
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\obj\Debug\netcoreapp3.1\313 in 220.AssemblyInfoInputs.cache
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\obj\Debug\netcoreapp3.1\313 in 220.AssemblyInfo.cs
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\obj\Debug\netcoreapp3.1\313 in 220.csproj.CoreCompileInputs.cache
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\obj\Debug\netcoreapp3.1\313 in 220.dll
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\obj\Debug\netcoreapp3.1\313 in 220.pdb
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\obj\Debug\netcoreapp3.1\313 in 220.genruntimeconfig.cache
+C:\Users\sergey.markevich\source\repos\313 in 220\313 in 220\obj\Debug\netcoreapp3.1\_313_in_220.Properties.Resources.resources
